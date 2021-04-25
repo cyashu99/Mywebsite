@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    text-align: center;
+    color: #40514e;
+    font-family: 'Righteous', serif;
+}
+h1{
+    margin: 50px auto 0;
+    font-family: 'Berkshire Swash', serif;
+    font-size: 6rem;
+    color: #66bfbf;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+    font-family: 'Berkshire Swash', serif;
+}
+h3{
+    color: #11999e;
+    font-family: 'Berkshire Swash', serif;
+}
+hr{
+    border-style: none;
+    border-top: 5px dotted;
+    border-color: #eaf6f6;
+    width: 5%;
+}
+.top-container{
+    background-color: #e4f9f5;;
+    position: relative;
+    padding: 100px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 400px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+.image{
+    height: 250px;
+    border-radius: 100%;
+    padding: 10px;
+}
+.code-image{
+    float: left;
+    height: 220px;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+.chilli-image{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+    height: 200px;
+    text-align: left;
+}
+.BUTTON_GXA {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Righteous';
+    font-weight: 100;
+    padding: 7px;
+    background-color: #66BFBF;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 10px;
+ }
+ 
+ .BUTTON_GXA:hover {
+    background: #99C624;
+    border: solid #DD380D 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .bottom-container{
+     background-color: #66bfbf;
+     padding: 40px;
+ }
+ .middle-container{
+    padding: 40px;
+}
+.footer-link{
+    color: #11999e;
+    text-decoration: none;
+    padding: 50px;
+}
+.copyright{
+    padding-top: 50px;
+    color: #eaf6f6;
+}
